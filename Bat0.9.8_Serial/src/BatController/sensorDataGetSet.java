@@ -228,7 +228,7 @@ public class sensorDataGetSet {
 	
 	/**
 	 * 
-	 * @return
+	 * @return leftSideSonarInches
 	 */
 	public static String getLeftSideSonar() {
 
@@ -237,7 +237,7 @@ public class sensorDataGetSet {
 
 	/**
 	 * 
-	 * @return
+	 * @return reftSideSonarInches
 	 */
 	public static String getReftSideSonar() {
 
